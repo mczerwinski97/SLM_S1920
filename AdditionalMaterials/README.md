@@ -11,6 +11,9 @@
 - **[Ten random useful things in R that you might not know about](https://towardsdatascience.com/ten-random-useful-things-in-r-that-you-might-not-know-about-54b2044a3868?fbclid=IwAR1r4kLfRX-OMNt59TfUSvJ-RZF57TB9Ohl1plEe6ruDJkRuyYBdoc6xROY)**
 - **[Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab)](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911?fbclid=IwAR0Jn1CDrEGzBMqX2YOVL9Ec6muXQGXmwuBRLypU_-GDHCuH3sdbw5HIY5s)**
 
+## :snake: Python language
+- Waiting for Pull Requests
+
 ## :chart_with_upwards_trend: Econometrics
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
 - **[Econometrics in R](https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)**
