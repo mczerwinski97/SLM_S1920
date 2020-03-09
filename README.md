@@ -1,6 +1,12 @@
 # SLM_S1920
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
+---
+## Voting on languages used during the course:
+
+https://forms.gle/5Dxecx3NKxqL6a3CA
+
+---
 **Contact**
 
 Name: Łukasz Kraiński
