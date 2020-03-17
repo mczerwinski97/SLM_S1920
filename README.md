@@ -2,6 +2,19 @@
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
 ---
+**Links to Team meetings for Class 2 18.03.2020**
+
+`17:10 - R code`
+
+https://tinyurl.com/SLM1710
+
+`19:00 - Python code`
+
+https://tinyurl.com/SLM1900
+
+All groups are invited (if you can't join there are additional materials in Class2 folder), meeting is mandatory for groups 104 and 105.
+
+---
 ## Voting on languages used during the course:
 
 https://forms.gle/5Dxecx3NKxqL6a3CA
