@@ -5,6 +5,7 @@
 
 #### Agenda ####
 
+# Intro to statistical learning (aka Machine Learning)
 # Splitting dataset into train and validation subsets
 # Assessing model performance
 
@@ -18,7 +19,7 @@ set.seed(10)
 #Dataset description: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.doc (or in GitHub repo)
 DATA_SET = read.fwf("http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data-numeric", widths = rep(4, 25), header = FALSE)
 names(DATA_SET)[25] = "target"
-DATA_SET$target = 2 - DATA_SET$target #recoding target variable
+DATA_SET$target = DATA_SET$target - 1 #recoding target variable
 
 # Splitting into train and validation subsets - easier version
 rand = sample(1:nrow(DATA_SET),0.8*nrow(DATA_SET)) #random 80% of indexes values
@@ -39,6 +40,7 @@ set = SplitDataSet(DATA_SET, 0.7)
 # Is random sampling the best approach? What if one class has many more records than the other?
 # Imbalanced data (undersampling, oversampling, cost-based performance, algorithmic approches e.g.SMOTE)
 #https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
+
 
 #Cost-based approach to assessing the model
 CalculateCost = function(cut.off, cost.matrix, score, true.y){
@@ -70,8 +72,8 @@ costs[[2]] = sapply(CUT_OFFS, CalculateCost, cost.matrix = COST_MATRIX,
                      score = score[[2]], true.y = set$training$target)
 
 #Ploting results
-plot(data.frame(CUT_OFFS, 0.7), type = "l", lty = 3, log = "y",
-     ylim = range(c(0.7, unlist(costs))),
+plot(data.frame(CUT_OFFS, 1.1), type = "l", lty = 3, log="y",
+     ylim = range(c(1.1, unlist(costs))),
      ylab = "Cost per client", xlab = "Cut-off")
 for (i in 1:2) {
   lines(CUT_OFFS, costs[[i]], lty = i, lwd = 2)
@@ -82,8 +84,10 @@ for (i in 1:2) {
 legend("topright", c("Validation", "Training", "Random"),
        lty = c(1, 2, 3), cex = .7, ncol = 3,
        lwd = c(2, 2, 1))
-#What is random outcome? Average of target variable
-mean(DATA_SET$target)
+
+#What is random outcome?
+m=mean(DATA_SET$target)
+COST_MATRIX[2,1]*m/2+COST_MATRIX[1,2]*(1-m)/2
 
 #Looks like we got lower cost for predictions on training set, but model may OVERFIT.
 #Splitting data into training and validation set is done to avoid overfitting
@@ -108,6 +112,7 @@ train.set = DATA_SET[training.set.indices, ]
 test.set = DATA_SET[!training.set.indices, ]
 
 full.logit = glm(class ~ ., data = train.set, family = binomial)
+full.logit
 #Feature selection with step() function
 #Bayesian information criterion used as assessment criterion
 BIC.logit = step(full.logit, k = log(nrow(train.set)), trace = 0)
