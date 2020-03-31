@@ -36,7 +36,7 @@ Each email should have 2 attachments:
 - for Jupyter: `.ipynb` file and `.html/.pdf` file generated from notebook, 
 - for R Markdown:  `.Rmd` file and `.html/.pdf` file generated from notebook.
 
-Below table of randomly picked datasets. If someone is missing on the list please contact me. 
+Below table of randomly picked datasets. If someone is missing on the list please contact me. If there is more than one dataset under given hyperlink, pick one.
 
 | Index  | Dataset Name                                        | URL                                                                                          | Data Types                             | Default Task                | Attribute Types             | # Instances | # Attributes |
 |--------|-----------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|-----------------------------|-----------------------------|-------------|--------------|
@@ -74,10 +74,6 @@ Below table of randomly picked datasets. If someone is missing on the list pleas
 | 105333 | ISTANBUL STOCK EXCHANGE                             | https://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE                              | Multivariate, Univariate, Time-Series  | Classification, Regression  | Real                        | 536         | 8            |
 | 105366 | Phishing Websites                                   | https://archive.ics.uci.edu/ml/datasets/Phishing+Websites                                    |                                        | Classification              | Integer                     | 2456        | 30           |
 
-
----
-
-**Comp
 
 ---
 **Contact**
