@@ -7,7 +7,7 @@
 #### Smoothing spline and EDA####
 
 library(corrplot)
-DATA_SET = read.table("https://raw.githubusercontent.com/KrainskiL/SLM_S1920/master/DATA4-12.txt")
+DATA_SET = read.table("https://raw.githubusercontent.com/KrainskiL/SLM_S1920/master/Class3/DATA4-12.txt")
 #Function to split plot box in line with number of plotted elements
 OptimizeMfrow = function(elements) {
   columns = ceiling(sqrt(elements))
