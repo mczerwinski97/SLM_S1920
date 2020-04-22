@@ -2,15 +2,15 @@
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
 ---
-**Links to Team meetings for Class 3 01.04.2020**
+**Links to Team meetings for Class 4 22.04.2020**
 
 `17:10 - R code`
 
-[Link for 17:10](https://teams.microsoft.com/l/meetup-join/19%3a98f90792c3274ef9af35b6210beafa21%40thread.skype/1585692337481?context=%7b%22Tid%22%3a%22164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04%22%2c%22Oid%22%3a%22e6d303f5-ef9f-495d-bedf-286dfac9a88a%22%7d)
+[Link for 17:10](https://teams.microsoft.com/l/meetup-join/19%3a98f90792c3274ef9af35b6210beafa21%40thread.skype/1587486474470?context=%7b%22Tid%22%3a%22164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04%22%2c%22Oid%22%3a%22e6d303f5-ef9f-495d-bedf-286dfac9a88a%22%7d)
 
 `19:00 - Python code`
 
-[Link for 19:00](https://teams.microsoft.com/l/meetup-join/19%3af7572f401f7e49f6bd7d4743a93cd9b4%40thread.skype/1585692615708?context=%7b%22Tid%22%3a%22164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04%22%2c%22Oid%22%3a%22e6d303f5-ef9f-495d-bedf-286dfac9a88a%22%7d)
+[Link for 19:00](https://teams.microsoft.com/l/meetup-join/19%3af7572f401f7e49f6bd7d4743a93cd9b4%40thread.skype/1587486533150?context=%7b%22Tid%22%3a%22164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04%22%2c%22Oid%22%3a%22e6d303f5-ef9f-495d-bedf-286dfac9a88a%22%7d)
 
 ---
 **Modeling problem report**
