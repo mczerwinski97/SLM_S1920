@@ -8,7 +8,8 @@
 #Extremely random forests,
 #Boosted Trees
 
-dataset = read.csv("./Class4_data.csv",header=T,stringsAsFactors = F)
+dataset = read.csv("https://raw.githubusercontent.com/KrainskiL/SLM_S1920/master/Class4/Class4_data.csv",
+                   header=T,stringsAsFactors = F)
 head(dataset)
 
 #Preprocessing
