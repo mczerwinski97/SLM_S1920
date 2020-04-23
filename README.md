@@ -161,7 +161,7 @@ Optional: B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publish
 
 <s>• Written examination (50 points); during last lecture; no supporting materials are allowed</s>
 
-• Modeling problem report (50 points); sent to your teaching assistant before last laboratory, subject of modelling should be agreed with teaching assistant
+• Modeling problem report (50 points); sent to your teaching assistant before last laboratory
 
 • Laboratory examination (50 points); during last examination; you can bring your own printed
 materials
