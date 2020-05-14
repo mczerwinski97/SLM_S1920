@@ -1,7 +1,16 @@
 # SLM_S1920
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
----
+**Requirements for final exam in Python**
+
+Recommended versions of packages tested on `Python 3.7.4.`:
+* IPython 7.13.0
+* pandas 1.0.1
+* numpy 1.18.1
+* scikit-learn 0.22.2.post1 (please make sure you have version >=0.22 - required for CART cost-based pruning)
+* seaborn 0.10.0
+* matplotlib 3.2.0
+
 **Modeling problem report**
 
 Every student will be assigned to one dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets.php).
