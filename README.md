@@ -1,7 +1,7 @@
 # SLM_S1920
 Repository for Statistical Learning Methods [223490-0286] - Summer semester 2019/20
 
-**Requirements for final exam in Python**
+**Requirements for final exam in Python (Group 105)**
 
 Recommended versions of packages tested on `Python 3.7.4.`:
 * IPython 7.13.0
