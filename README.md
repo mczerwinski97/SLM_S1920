@@ -11,6 +11,50 @@ Recommended versions of packages tested on `Python 3.7.4.`:
 * seaborn 0.10.0
 * matplotlib 3.2.0
 
+---
+
+**Points summary**
+
+Below table summarizes points obtained through different assignments:
+* Competition (extra points) - points for competition held on 20.06.2020. Seperate grading for groups 104 and 105. [Competition results](https://github.com/KrainskiL/SLM_S1920/blob/master/Competition/README.md)
+* Exam - written laboratory exam scheduled for 03.06.2020
+* Report - modeling problem report described in `Modeling problem report` section
+* Homework (extra points) - task given during lectures focused on MNIST data
+* DataFrames.jl course (extra points) - points for **finishing** DataFrames.jl course. Points are granted after sending course certificate (through email or MS Teams)
+
+| Group | Index  | Competition | Exam | Report | Homework | DataFrames.jl course |
+| ----- | ------ | ----------- | ---- | ------ | -------- | -------------------- |
+| 102   | 102041 | 4           | \-   | \-     | \-       | \-                   |
+| 103   | 72892  | 0           | \-   | 50     | \-       | \-                   |
+| 104   | 63633  | 0           | \-   | \-     | \-       | 5                    |
+| 104   | 67821  | 0           | \-   | \-     | \-       | Send certificate     |
+| 104   | 68209  | 0           | \-   | 50     | \-       | 5                    |
+| 104   | 68489  | 2           | \-   | 50     | \-       | 5                    |
+| 104   | 72364  | 2           | \-   | 50     | \-       | Send certificate     |
+| 104   | 72983  | 3           | \-   | \-     | \-       | 5                    |
+| 104   | 73001  | 1           | \-   | \-     | \-       | \-                   |
+| 104   | 73077  | 3           | \-   | 50     | \-       | Send certificate     |
+| 104   | 73091  | 1           | \-   | \-     | \-       | \-                   |
+| 104   | 73190  | 4           | \-   | \-     | \-       | \-                   |
+| 104   | 85309  | 2           | \-   | \-     | \-       | Send certificate     |
+| 104   | 102207 | 0           | \-   | \-     | \-       | 5                    |
+| 104   | 102217 | 0           | \-   | \-     | \-       | \-                   |
+| 104   | 102411 | 0           | \-   | \-     | \-       | \-                   |
+| 104   | 105366 | 5           | \-   | \-     | 5        | 5                    |
+| 105   | 59877  | 2           | \-   | \-     | \-       | Send certificate     |
+| 105   | 72384  | 4           | \-   | \-     | \-       | Send certificate     |
+| 105   | 72399  | 0           | \-   | \-     | \-       | Send certificate     |
+| 105   | 72546  | 3           | \-   | 50     | \-       | 5                    |
+| 105   | 73019  | 3           | \-   | 50     | 5        | 5                    |
+| 105   | 73027  | 2           | \-   | 45     | \-       | Send certificate     |
+| 105   | 73189  | 4           | \-   | \-     | 5        | Send certificate     |
+| 105   | 83913  | 5           | \-   | \-     | \-       | 5                    |
+| 105   | 102046 | 2           | \-   | \-     | \-       | 5                    |
+| 105   | 102086 | 0           | \-   | \-     | \-       | \-                   |
+| 105   | 102867 | 5           | \-   | \-     | \-       | \-                   |
+
+---
+
 **Modeling problem report**
 
 Every student will be assigned to one dataset from [UCI Repository](https://archive.ics.uci.edu/ml/datasets.php).
@@ -20,7 +64,7 @@ The task is to analyze the data and produce a report with following structure:
 
 `10pts` 2) Cleaning and preprocessing data - removing or imputing missing data, standarization, one-hot encoding, handling outliers, etc.
 
-`10pts` 3) EDA with focus on exploring relations between features nad target variable
+`10pts` 3) EDA with focus on exploring relations between features and target variable
 
 `5pts` 4) Creating models, hyperparameter tuning
 
