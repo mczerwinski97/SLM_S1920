@@ -12,4 +12,26 @@ Please send the results to _lukasz.krainski123@gmail.com_ . Deadlines: Group 104
 
 Ranking table will appear in below README file. Best team in each group will receive 5 points, next 4 points, etc.
 
-Good luck.
+### Ranking
+
+**Group 104**
+
+|Team             |Accuracy|Points|Model              |Language|
+|-----------------|--------|------|-------------------|--------|
+|Alone            |99.78   |5|Boosted Trees      |R       |
+|Drzewce          |99.60    |4|CART               |Python  |
+|M&M              |97.56   |3|Random Forest      |R       |
+|Atena            |93.62   |2|CART               |R       |
+|Trojca           |90.00      |1|Random Forest      |R       |
+|102207_102217    |86.54   |0|Neural Network     |Python  |
+|DreamTeam        |83.62   |0|CART               |R       |
+
+**Group 105**
+
+|Team             |Accuracy|Points|Model              |Language|
+|-----------------|--------|------|-------------------|--------|
+|XD               |97.28   |5|K-Nearest Neighbors|Python  |
+|Jarosławy        |91.02   |4|Random Forest      |Python  |
+|Dzikie Chrząszcze|85.54   |3|Boosted Trees      |Python  |
+|Trash Pandas     |68.64   |2|Random Forest      |R       |
+
