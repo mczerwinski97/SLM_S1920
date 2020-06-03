@@ -24,11 +24,11 @@ Below table summarizes points obtained through different assignments:
 
 | Group | Index  | Competition | Exam | Report | Homework | DataFrames.jl course |
 | ----- | ------ | ----------- | ---- | ------ | -------- | -------------------- |
-| 102   | 76417  | 0           | \-   | \-     | \-       | 5                    |
-| 102   | 102041 | 4           | \-   | \-     | \-       | \-                   |
+| 102   | 76417  | 0           | \-   | 50     | \-       | 5                    |
+| 102   | 102041 | 4           | \-   | \-     | \-       | 5                    |
 | 103   | 72892  | 0           | \-   | 50     | \-       | \-                   |
 | 104   | 63203  | 0           | \-   | \-     | \-       | 5                    |
-| 104   | 63633  | 0           | \-   | \-     | \-       | 5                    |
+| 104   | 63633  | 0           | \-   | 50     | \-       | 5                    |
 | 104   | 67821  | 0           | \-   | 47     | \-       | 5                    |
 | 104   | 68209  | 0           | \-   | 50     | \-       | 5                    |
 | 104   | 68418  | 0           | \-   | \-     | \-       | 5                    |
@@ -36,26 +36,36 @@ Below table summarizes points obtained through different assignments:
 | 104   | 72364  | 2           | \-   | 50     | \-       | 5                    |
 | 104   | 72983  | 3           | \-   | 50     | \-       | 5                    |
 | 104   | 73001  | 1           | \-   | 50     | \-       | 5                    |
-| 104   | 73077  | 3           | \-   | 50     | \-       | Send certificate     |
+| 104   | 73077  | 3           | \-   | 50     | \-       | 5                    |
 | 104   | 73091  | 1           | \-   | \-     | \-       | 5                    |
-| 104   | 73190  | 4           | \-   | \-     | \-       | \-                   |
+| 104   | 73190  | 4           | \-   | 50     | \-       | \-                   |
 | 104   | 85309  | 2           | \-   | 45     | \-       | 5                    |
 | 104   | 102207 | 0           | \-   | 42     | \-       | 5                    |
-| 104   | 102217 | 0           | \-   | \-     | \-       | \-                   |
+| 104   | 102217 | 0           | \-   | \-     | \-       | 5                    |
 | 104   | 102411 | 0           | \-   | \-     | \-       | 5                    |
 | 104   | 105366 | 5           | \-   | \-     | 5        | 5                    |
-| 105   | 59877  | 2           | \-   | \-     | \-       | 5                    |
+| 105   | 59877  | 2           | \-   | 50     | \-       | 5                    |
 | 105   | 67466  | 0           | \-   | \-     | \-       | 5                    |
 | 105   | 72384  | 4           | \-   | 42     | \-       | 5                    |
-| 105   | 72399  | 0           | \-   | \-     | \-       | Send certificate     |
+| 105   | 72399  | 0           | \-   | 50     | \-       | 5                    |
 | 105   | 72546  | 3           | \-   | 50     | \-       | 5                    |
 | 105   | 73019  | 3           | \-   | 50     | 5        | 5                    |
 | 105   | 73027  | 2           | \-   | 45     | \-       | 5                    |
-| 105   | 73189  | 4           | \-   | \-     | 5        | 5                    |
-| 105   | 83913  | 5           | \-   | \-     | \-       | 5                    |
+| 105   | 73189  | 4           | \-   | 45     | 5        | 5                    |
+| 105   | 83913  | 5           | \-   | 45     | \-       | 5                    |
 | 105   | 102046 | 2           | \-   | 45     | \-       | 5                    |
 | 105   | 102086 | 0           | \-   | \-     | \-       | 5                    |
-| 105   | 102867 | 5           | \-   | \-     | \-       | \-                   |
+| 105   | 102867 | 5           | \-   | 50     | 5        | 5                    |
+
+---
+
+**Laboratory exam**
+
+Written exam is scheduled for **03.06.2020**. Each student will receive personalized exam file (`.R` or `.ipynb`) with their index number in filename. Files contain only exam tasks and should be filled with proper code and comments. After finishing the exam, please send the same file to lukasz.krainski123@gmail.com. Points for each task are listed in the files. Group specific details below:
+* Group 104: exam is in `R`, files will be published in **ExamG104** folder at 5:00 PM. Deadline for exam submission is **7:10 PM**.
+* Group 105: exam is in `Python`, files will be published in **ExamG105** folder at 6:50 PM. Deadline for exam submission is **9:00 PM**.
+
+If there is no file with your index number please contact me via Teams. There will be 15 minutes for questions during the call for each group, later questions may be asked through Teams messenger.
 
 ---
 
